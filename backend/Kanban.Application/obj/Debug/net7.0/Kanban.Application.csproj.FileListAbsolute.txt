@@ -1,0 +1,15 @@
+C:\Users\David\Desktop\project\backend\Kanban.Application\bin\Debug\net7.0\Kanban.Application.deps.json
+C:\Users\David\Desktop\project\backend\Kanban.Application\bin\Debug\net7.0\Kanban.Application.dll
+C:\Users\David\Desktop\project\backend\Kanban.Application\bin\Debug\net7.0\Kanban.Application.pdb
+C:\Users\David\Desktop\project\backend\Kanban.Application\bin\Debug\net7.0\Kanban.Domain.dll
+C:\Users\David\Desktop\project\backend\Kanban.Application\bin\Debug\net7.0\Kanban.Domain.pdb
+C:\Users\David\Desktop\project\backend\Kanban.Application\obj\Debug\net7.0\Kanban.Application.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\project\backend\Kanban.Application\obj\Debug\net7.0\Kanban.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\project\backend\Kanban.Application\obj\Debug\net7.0\Kanban.Application.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\project\backend\Kanban.Application\obj\Debug\net7.0\Kanban.Application.AssemblyInfo.cs
+C:\Users\David\Desktop\project\backend\Kanban.Application\obj\Debug\net7.0\Kanban.Application.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\project\backend\Kanban.Application\obj\Debug\net7.0\Kanban.Application.csproj.CopyComplete
+C:\Users\David\Desktop\project\backend\Kanban.Application\obj\Debug\net7.0\Kanban.Application.dll
+C:\Users\David\Desktop\project\backend\Kanban.Application\obj\Debug\net7.0\refint\Kanban.Application.dll
+C:\Users\David\Desktop\project\backend\Kanban.Application\obj\Debug\net7.0\Kanban.Application.pdb
+C:\Users\David\Desktop\project\backend\Kanban.Application\obj\Debug\net7.0\ref\Kanban.Application.dll
